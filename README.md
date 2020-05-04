@@ -1,4 +1,4 @@
-# Tutorial Tutorial: Make a blog with Next.js, React and Sanity 🚀
+# Tutorial Tutorial: Make a blog with Next.js, React.js and Sanity 🚀
 
 Tutorial made by Knut Melvær.
 
