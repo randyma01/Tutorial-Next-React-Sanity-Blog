@@ -2,6 +2,10 @@
 # proj: tutorial next, react and sanity blog #
 # module: frontend #
 
+# next #
+.next
+/.next
+
 # dependencies #
 /node_modules
 /.pnp
